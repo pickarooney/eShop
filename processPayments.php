@@ -8,7 +8,7 @@
 	}
 		
 		
-	//init
+	//initialise
 	$serverName = $_SESSION['serverName'];
 	$ccode = ''; $fname = '';$lname='';$email='';$mobile='';$add1='';$add2='';$postcode='';$town='';$state='';$country='';$countrycode='';
 	
